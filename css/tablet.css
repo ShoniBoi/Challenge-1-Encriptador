@@ -1,0 +1,39 @@
+@media (min-width: 700px){
+    
+    body{
+        height: 100%;
+    }
+    main{
+        height: 85vh;
+                
+    }
+    .formulario-encriptador{
+    justify-content: space-around;
+    }
+    .texto-ingresado{
+        width: 50%;
+    }
+    .botones{
+        flex-direction: row;
+    }
+    .container-texto-resultado{
+        width: 50%;
+        height: 50%;
+    }
+    
+    .footer-texto{ 
+        font-weight: 900;
+        font-size: 16px;
+    }
+    
+    .link{
+        text-decoration: none;
+        font-size: 16px;  
+    }
+    .link:hover{
+        font-size: 18px; 
+    }
+    footer{
+        height: 5vh;
+    }
+}  
